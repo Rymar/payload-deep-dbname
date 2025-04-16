@@ -1,0 +1,7 @@
+node_modules
+.next
+.idea
+.vscode
+*.tsbuildinfo
+next-env.d.ts
+.pnpm-store
